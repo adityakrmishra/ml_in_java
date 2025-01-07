@@ -2,7 +2,7 @@
 
 # This project is in progress (I created only a structure of this project and planned what is in project see below)
 if you want you can contribute according to project described below by opening a pull request
-
+on the time of contributing also erdit contribute.md
 
 
 This project is a collection of machine learning algorithms and utilities implemented in Java. It includes various models, evaluation metrics, and cross-validation techniques to help you build and evaluate machine learning models efficiently.
